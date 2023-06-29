@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Bazaar/static/css/main.6dfb287f.css",
+    "main.js": "/Bazaar/static/js/main.fdd08a92.js",
+    "static/media/googleLogo.png": "/Bazaar/static/media/googleLogo.7dbc7ea39eb97007c7f4.png",
+    "index.html": "/Bazaar/index.html",
+    "main.6dfb287f.css.map": "/Bazaar/static/css/main.6dfb287f.css.map",
+    "main.fdd08a92.js.map": "/Bazaar/static/js/main.fdd08a92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6dfb287f.css",
+    "static/js/main.fdd08a92.js"
+  ]
+}
